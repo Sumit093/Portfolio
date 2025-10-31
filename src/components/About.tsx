@@ -25,7 +25,7 @@ export default function About() {
           <div className="relative flex justify-center">
             <div className="relative w-80 h-80 rounded-2xl overflow-hidden shadow-2xl">
               <img
-                src={'./src/assets/profile.jpeg'}
+                src="/profile.jpeg"
                 alt="Profile"
                 className="w-full h-full object-cover"
               />
