@@ -11,15 +11,11 @@ export default function About() {
 
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
+            
             <p className="text-lg text-gray-700 leading-relaxed">
-              I'm a passionate Java Full Stack Developer driven by curiosity and a desire to build meaningful digital solutions. As a fresher, I bring strong fundamentals in Java, Spring Boot, and modern web technologies like React and REST APIs, with a problem-solving mindset and eagerness to learn.
+              I’m a passionate Java Full Stack Developer with a strong foundation in Java, Spring Boot, React, and REST APIs. I enjoy building clean, scalable, and user-friendly applications while constantly learning and exploring new technologies. With a problem-solving mindset and curiosity for innovation, I aim to create impactful digital solutions that make everyday life easier.
             </p>
-            <p className="text-lg text-gray-700 leading-relaxed">
-             My journey into development began with a fascination for how technology shapes everyday life, and it has grown into a mission to create seamless, scalable, and user-friendly applications. I love exploring innovative tools, experimenting with new ideas, and continuously improving my craft.
-            </p>
-            <p className="text-lg text-gray-700 leading-relaxed">
-              When I'm not coding, I enjoy brainstorming new project ideas, contributing to collaborative tech communities, and learning about the latest trends in software development.
-            </p>
+            
           </div>
 
           <div className="relative flex justify-center">
